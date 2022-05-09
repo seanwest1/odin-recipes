@@ -1,3 +1,4 @@
+<!--From https://www.loveandlemons.com/greek-salad/-->
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -9,5 +10,27 @@
 <body>
     <h1>Greek Salad</h1>
     <img src="https://static.toiimg.com/thumb/58895943.cms?imgsize=122037&width=509&height=340">
+
+    <h2>Ingredients</h2>
+    Dressing
+    <ul>
+        <li>¼ cup extra-virgin olive oil</li>
+        <li>    3 tablespoons red wine vinegar</li>
+        <li>    1 garlic clove, minced</li>
+        <li>    ½ teaspoon dried oregano, more for sprinkling</li>
+        <li>    ¼ teaspoon Dijon mustard</li>
+        <li>    ¼ teaspoon sea salt</li>
+        <li>    Freshly ground black pepper</li>
+    </ul>
+    Salad
+    <ol>
+        <li>1 English cucumber, cut lengthwise, seeded, and sliced ¼-inch thick</li>
+        <li>1 green bell pepper, chopped into 1-inch pieces</li>
+        <li>2 cups halved cherry tomatoes</li>
+        <li>5 ounces feta cheese, cut into ½ inch cubes*</li>
+        <li>⅓ cup thinly sliced red onion</li>
+        <li>⅓ cup pitted Kalamata olives</li>
+        <li>⅓ cup fresh mint leaves</li>
+    </ol>
 </body>
 </html>
